@@ -3,8 +3,9 @@ layout: resume
 ---
 ## Currently
 
-MS Student at Oregon Health Science University   
-Bioinformatics and Computational Biomedicine. 
+MS Student at Oregon Health Science University  
+
+Degree: **Bioinformatics and Computational Biomedicine.** 
 
 ## Education
 
