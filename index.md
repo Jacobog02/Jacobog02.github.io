@@ -11,4 +11,4 @@ I am a Oregon Health & Science University.
 - Bees
 - Science
 
-! [Jetpackcat] (https://octodex.github.com/images/jetpacktocat.png)
+! [Jetpackcat](https://octodex.github.com/images/jetpacktocat.png)
