@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Jacob
-  avatar: _images/pup.jpg
+  avatar: /images/pup.jpg
   bio: "THIS IS AN UPDATE"
   email: gutierja@ohsu.edu
   # Do not include the @ symbol in your Twitter username
