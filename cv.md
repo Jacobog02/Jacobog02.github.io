@@ -3,22 +3,23 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+MS Student at Oregon Health Science University   
+Bioinformatics and Computational Biomedicine. 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2017`
+__Lewis and Clark College__
+Biochemistry and Molecular Biology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2018 - Present`
+__Oregon Health Science University__
+**NOTHING**
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018`
+Thot Patrol
 
 ## Publications
 
