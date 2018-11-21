@@ -3,12 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a Oregon Health & Science University.
+MS student in Bioinformatics at Oregon Health & Science University.
 
 ## Current Interests and Projects:
 
-- Eating
-- Bees
-- Science
+- NGS sequencing
+- Genetically Triggered Aortopathy
+- Tea
 
+This will become a more meaningful info soon. 
 ! [Jetpackcat](https://octodex.github.com/images/jetpacktocat.png)
