@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Jacob's Website
+title: Gutierrez Bioinformatics
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Jacob
+  name: Jacob Gutierrez
   avatar: bio-photo.jpg
   bio: "Hunter, Scholar, Gentleman"
   email: gutierja@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: www.linkedin.com/in/jacobog02/ #username
   github: Jacobog02
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  orcid: 0000-0003-4581-3534 # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Jacob_Gutierrez2 #username
   mendeley: #username
   google:
     plus: #username
