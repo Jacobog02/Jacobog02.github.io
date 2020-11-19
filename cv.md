@@ -1,72 +1,89 @@
 ---
 layout: resume
 ---
-## Currently
 
-MS Student at Oregon Health Science University  
+## Summary
 
-Degree: **Bioinformatics and Computational Biomedicine.** 
+Skilled bioinformatician with a strong background in academic research and industry. Independent and driven with the ability to learn new topics and workflows quickly and effectively. Excited to investigate complex studies in biology for academic or industrial entities.  
 
-## Education
+## Qualifications
 
-`2013 - 2017`
-__Lewis and Clark College__
-Biochemistry and Molecular Biology
+- Understanding of Biology and Computer Science focusing on Molecular Genetics.  
 
-`2018 - Present`
-__Oregon Health Science University__
-**NOTHING**
+- Knowledge of R, Python, and working within Unix based systems.
 
-## Awards
+- Performed Bioinformatics Analysis on Methyl-Capture sequencing, Methylation Microarray, and exome sequencing derived datasets. 
 
-`2018`
-Thot Patrol
+- Experience and formal training in Machine Learning using R and Python and Deep Learning using the Pytorch library. 
+
+- Wet bench experience performing molecular biology and stem cell culture. 
+
+- Excellent organizational and communication skills working in collaborative projects. 
+
+- Independent and goal oriented who can quickly learn new skills to become self sufficient within a working group.  
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=kXtCQXYAAAAJ)
 
 ### Journals
 
+`2019`
+Corbitt, H, Gutierrez, J, Silberbach, M, Maslen, CL. The genetic basis of Turner syndrome aortopathy. Am J Med Genet Part C. 2019; 181C: 101– 109. https://doi-org.liboff.ohsu.edu/10.1002/ajmg.c.31686
+
+## Experience
+
+`Sep 2018 - Present`
+__Research Assistant II__, Oregon Health Science University 
+
+- Ongoing cell culture experiments on patient derived stem cell lines.
+- Creation of study design for NGS Methyl Capture-seq experiment.
+- Conducting data analysis on NGS Methyl Capture-seq projects.
+- Main lab technician responsible for upkeep and experimentation in the lab.
+
+
+`May-August 2016`
+__Manufacturing Scientist Intern II__, One Lambda(ThermoFisher Scientific)
+
+- Assembly and testing of molecular based HLA allele typing devices (PCR, Sanger)
+- Trained on manufacturing of 4 independent HLA typing products. 
+- Weekly maintenance of Thermo Fisher 96-capillary 3730xl DNA Analyzer.
+
+
+
+
+## Education
+
+`2018 - Present`
+__Oregon Health Science University, MS__
+Bioinformatics and Computational Biomedicine
+
+`2013 - 2016`
+__Lewis and Clark College, BA__
+Biochemistry and Molecular Biology
+
+<!---
+## Publications
+-->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=kXtCQXYAAAAJ)
+-->
+
+<!--- ### Journals
 `1994`
 Article Title, Journal Title
-
+[https://doi.org/10.1002/ajmg.c.31686](https://doi.org/10.1002/ajmg.c.31686)
 `1994`
 Article Title, Journal Title
+-->
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
+<!-- ## Presentations
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+-->
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2020 -->
 
 
