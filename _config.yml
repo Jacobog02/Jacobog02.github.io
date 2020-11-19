@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Jacob Gutierrez
-  avatar: JG_Bio_Image.jpg
+  avatar: JG_Bio_Image.JPG
   bio: "Motivated Computational Scientist with experience in NGS genomics and Clinical Informatics"
   email: gutierja@ohsu.edu
   # Do not include the @ symbol in your Twitter username
