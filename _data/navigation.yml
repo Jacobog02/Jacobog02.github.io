@@ -2,17 +2,22 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
-
+# CV information as first
 - title: CV
   url: /cv/
 
-- title: Blog
-  url: /blog/
+# Presentation Slides 
+- title: Presentations
+  url: /presentations/
 
-- title: Workshops
-  url: /workshops/
+# I dont think I will use this... 
+#- title: Blog
+#  url: /blog/
+
+# Maybe put my analysis
+#- title: Workshops
+#  url: /workshops/
   
+# JG 11/20/20 Whatever Page
 - title: Page
   url: /BOI/
