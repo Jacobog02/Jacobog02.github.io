@@ -34,7 +34,8 @@ Corbitt, H, Gutierrez, J, Silberbach, M, Maslen, CL. The genetic basis of Turner
 ## Experience
 
 `Sep 2018 - Present`
-__Research Assistant II__, Oregon Health Science University 
+__Research Assistant II__
+Oregon Health Science University Portland, OR
 
 - Ongoing cell culture experiments on patient derived stem cell lines.
 - Creation of study design for NGS Methyl Capture-seq experiment.
@@ -43,7 +44,8 @@ __Research Assistant II__, Oregon Health Science University
 
 
 `May-August 2016`
-__Manufacturing Scientist Intern II__, One Lambda(ThermoFisher Scientific)
+__Manufacturing Scientist Intern II__,
+One Lambda(ThermoFisher Scientific) Canoga Park, CA
 
 - Assembly and testing of molecular based HLA allele typing devices (PCR, Sanger)
 - Trained on manufacturing of 4 independent HLA typing products. 
@@ -55,12 +57,12 @@ __Manufacturing Scientist Intern II__, One Lambda(ThermoFisher Scientific)
 ## Education
 
 `2018 - Present`
-__Oregon Health Science University, MS__
-Bioinformatics and Computational Biomedicine
+__MS, Oregon Health Science University__
+Degree: **Bioinformatics and Computational Biomedicine**
 
 `2013 - 2016`
-__Lewis and Clark College, BA__
-Biochemistry and Molecular Biology
+__BA, Lewis and Clark College__
+Degree: **Biochemistry and Molecular Biology**
 
 <!---
 ## Publications
