@@ -2,6 +2,7 @@
 layout: resume
 ---
 
+# Circum Vitae
 ## Summary
 
 Skilled bioinformatician with a strong background in academic research and industry. Independent and driven with the ability to learn new topics and workflows quickly and effectively. Excited to investigate complex studies in biology for academic or industrial entities.  
@@ -26,16 +27,17 @@ Skilled bioinformatician with a strong background in academic research and indus
 
 A list is also available [online](https://scholar.google.com/citations?user=kXtCQXYAAAAJ)
 
-### Journals
-
 `2019`
+
 Corbitt, H, Gutierrez, J, Silberbach, M, Maslen, CL. The genetic basis of Turner syndrome aortopathy. Am J Med Genet Part C. 2019; 181C: 101– 109. https://doi-org.liboff.ohsu.edu/10.1002/ajmg.c.31686
 
 ## Experience
 
 `Sep 2018 - Present`
 __Research Assistant II__
-Oregon Health Science University Portland, OR
+
+Oregon Health & Science University. 
+Portland, OR
 
 - Ongoing cell culture experiments on patient derived stem cell lines.
 - Creation of study design for NGS Methyl Capture-seq experiment.
@@ -44,26 +46,44 @@ Oregon Health Science University Portland, OR
 
 
 `May-August 2016`
-__Manufacturing Scientist Intern II__,
-One Lambda(ThermoFisher Scientific) Canoga Park, CA
+__Manufacturing Scientist Intern II__
+
+One Lambda(ThermoFisher Scientific). 
+Canoga Park, CA
 
 - Assembly and testing of molecular based HLA allele typing devices (PCR, Sanger)
 - Trained on manufacturing of 4 independent HLA typing products. 
 - Weekly maintenance of Thermo Fisher 96-capillary 3730xl DNA Analyzer.
 
 
-
-
 ## Education
 
 `2018 - Present`
+
 __MS, Oregon Health Science University__
+
 Degree: **Bioinformatics and Computational Biomedicine**
 
 `2013 - 2016`
+
 __BA, Lewis and Clark College__
+
 Degree: **Biochemistry and Molecular Biology**
 
+
+## Relevant Coursework
+
+- Clinical Research Informatics
+
+- Public Health Informatics
+
+- Epigenetics
+
+- Deep Learning
+
+- Computational Genetics
+
+- Network Biology
 <!---
 ## Publications
 -->
