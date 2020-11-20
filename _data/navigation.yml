@@ -7,8 +7,8 @@
   url: /cv/
 
 # Presentation Slides 
-- title: Presentations
-  url: /presentations/
+#- title: Presentations
+#  url: /presentations/
 
 # I dont think I will use this... 
 #- title: Blog
@@ -19,5 +19,5 @@
 #  url: /workshops/
   
 # JG 11/20/20 Whatever Page
-- title: Page
-  url: /BOI/
+#- title: Page
+#  url: /BOI/
