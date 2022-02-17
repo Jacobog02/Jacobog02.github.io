@@ -26,6 +26,8 @@ My current research interests include:
 
 1) Longitudinal characterization of blood in healthy donors.
 
+2) Ongoing interest in characterizing Turner Syndrome with single cell sequencing to gain insight into both rare and common disease.
+
 Previous research interests: 
  
 1) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.  
