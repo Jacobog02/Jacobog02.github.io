@@ -3,21 +3,30 @@ layout: page
 excerpt: "About Me..."
 ---
 
-MS student in Bioinformatics at Oregon Health & Science University.
+Computational Biologist at Stanford Univeristy.
+
 
 ## Background and Interests:
-Working at the Maslen Lab studying Geneticically Triggered Aortic Aneurysms. 
+Currently working at the Satpathy Lab leveraging single cell datasets to derive novel insights in normal health and disease. 
+Additionally provide computational and analytics support to members of the lab to assist in a variety of data types and research questions.
+
+- scmtATAC-seq 
+- Perturb-seq 
+- etc.
+
+Previously worked in Maslen Lab at Oregon Health & Science University studying Geneticically Triggered Aortic Aneurysms. 
 
 - NGS Sequencing including Whole Exome sequencing, Targeted and Whole Genome Bisulfite Sequencing 
 - Genetically Triggered Aortopathy in Turner Syndrome.
 - DNA methylation analysis and visualization. 
 
-
 ## Current Projects:
 
-My current research interests are varied due to my ongoing studies.  
-Some project stemmed out of final projects of coursework.  
-Others are pet projects to practice informatics.   
+My current research interests include:  
+
+1) Longitudinal characterization of blood in healthy donors.
+
+Previous research interests: 
  
 1) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.  
 
