@@ -32,8 +32,16 @@ A list is also available [online](https://scholar.google.com/citations?user=kXtC
 Corbitt, H, Gutierrez, J, Silberbach, M, Maslen, CL. The genetic basis of Turner syndrome aortopathy. Am J Med Genet Part C. 2019; 181C: 101– 109. https://doi-org.liboff.ohsu.edu/10.1002/ajmg.c.31686
 
 ## Experience
+`Oct 2021 - present`
+__Computational Biologist (Life Science Research Professional I)__
 
-`Sep 2018 - Present`
+Stanford University.
+Palo Alto, CA
+
+- Staff computational biologist providing computational and analytics support to ongoing projects within the group, leading to improved pipeline development and faster results delivery equipping investigators with less computational experience to deriving insight from their data. 
+
+
+`Sep 2018 - Jun 2021`
 __Research Assistant II__
 
 Oregon Health & Science University. 
@@ -58,7 +66,7 @@ Canoga Park, CA
 
 ## Education
 
-`2018 - Present`
+`2018 - 2021`
 
 __MS, Oregon Health Science University__
 
