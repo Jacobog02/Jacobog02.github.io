@@ -12,6 +12,8 @@ Additionally provide computational and analytics support to members of the lab t
 
 - mtscATAC-seq 
 - Perturb-seq 
+- ASAP-seq
+- NanoString CosMX Spatial Transcriptomics
 - etc.
 
 Previously worked in Maslen Lab at Oregon Health & Science University studying Geneticically Triggered Aortic Aneurysms. 
