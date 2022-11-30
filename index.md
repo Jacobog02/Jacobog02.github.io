@@ -24,9 +24,18 @@ Previously worked in Maslen Lab at Oregon Health & Science University studying G
 
 My current research interests include:  
 
-1) Longitudinal characterization of blood in healthy donors.
+1) Longitudinal mitochondrial lineage tracing of blood in healthy donors.
 
 2) Ongoing interest in characterizing Turner Syndrome with single cell sequencing to gain insight into both rare and common disease.
+
+3) Cell type of origin of Tubal-Ovarian Cancer in collaboration with Dr. Brooke Howitt. 
+
+4) Epigenomic landscape of CD8+ tissue-resident memory T cells 
+
+5) Latent human herpesvirus 6 reactivation in chimeric antigen receptor T cells.
+
+6+) Various projects utilizing single cell multi-omic profiling. 
+
 
 Previous research interests: 
  
