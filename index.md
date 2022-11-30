@@ -10,7 +10,7 @@ Computational Biologist at Stanford Univeristy.
 Currently working at the [Satpathy Lab](https://satpathylab.com/lab/) leveraging single cell datasets to derive novel insights in normal health and disease. 
 Additionally provide computational and analytics support to members of the lab to assist in a variety of data types and research questions.
 
-- scmtATAC-seq 
+- mtscATAC-seq 
 - Perturb-seq 
 - etc.
 
