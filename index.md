@@ -3,48 +3,61 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Computational Biologist at Stanford Univeristy.
+PhD Candidate in Cancer Biology at Gerstner Sloan Kettering.
 
 
 ## Background and Interests:
-Currently working at the [Satpathy Lab](https://satpathylab.com/lab/) leveraging single cell datasets to derive novel insights in normal health and disease. 
-Additionally provide computational and analytics support to members of the lab to assist in a variety of data types and research questions.
+Currently working in the [Lareau Lab](https://clareaulab.com/) at Memorial Sloan Kettering Cancer Center, analyzing petabyte-scale biorepository and public sequencing datasets on cloud compute infrastructure for viral sequence detection and discovery, to derive insight into the genetic architecture of viral persistence at the population scale.
+Additionally analyze in-house single cell datasets generated from novel technology development projects, and provide broad bioinformatics support spanning experimental design, data processing, and interpretation for genomics and virology projects both in house and with collaborators.
 
-- mtscATAC-seq 
-- Perturb-seq 
-- ASAP-seq
-- NanoString CosMX Spatial Transcriptomics
+- Petabyte-scale sequence analysis (WGS/WXS)
+- Genome wide variant association testing
+- Viral detection, discovery, and de novo assembly
+- sc-RNA/ATAC-seq, mtscATAC-seq, scRNA+ATAC multiome
+- Protein structure prediction and comparison
 - etc.
 
-Previously worked in Maslen Lab at Oregon Health & Science University studying Geneticically Triggered Aortic Aneurysms. 
+Independent virology projects developed through cross-institutional training at The Rockefeller University, in the lab of Nobel Laureate Charles Rice, PhD.
 
-- NGS Sequencing including Whole Exome sequencing, Targeted and Whole Genome Bisulfite Sequencing 
-- Genetically Triggered Aortopathy in Turner Syndrome.
-- DNA methylation analysis and visualization. 
+Previously worked in the Satpathy Lab at Stanford University leveraging single cell datasets to derive novel insights in normal health and disease.
+
+- mtscATAC-seq and mitochondrial lineage tracing
+- ASAP-seq, CITE-seq, and single cell multi-omic profiling
+- NanoString CosMX Spatial Transcriptomics
+
+Previously worked in the Maslen Lab at Oregon Health & Science University studying Genetically Triggered Aortic Aneurysms.
+
+- NGS sequencing including Whole Exome sequencing, Targeted and Whole Genome Bisulfite Sequencing
+- Genetically Triggered Aortopathy in Turner Syndrome
+- DNA methylation analysis and visualization
 
 ## Current Projects:
 
-My current research interests include:  
+My current research interests include:
+
+1) Host control and regulation of human anellovirus persistence.
+
+2) Resolving human neuronal herpesvirus reactivation via petabase-scale association studies.
+
+3) Population-scale determinants of persistent Epstein-Barr virus DNA.
+
+4) Single cell analysis of datasets generated from novel technology development projects.
+
+5+) Various genomics and virology projects supporting in house and collaborative work.
+
+
+Previous research interests:
 
 1) Longitudinal mitochondrial lineage tracing of blood in healthy donors.
 
-2) Ongoing interest in characterizing Turner Syndrome with single cell sequencing to gain insight into both rare and common disease.
+2) Cell type of origin of Tubal-Ovarian Cancer in collaboration with Dr. Brooke Howitt.
 
-3) Cell type of origin of Tubal-Ovarian Cancer in collaboration with Dr. Brooke Howitt. 
+3) Epigenomic landscape of CD8+ tissue-resident memory T cells.
 
-4) Epigenomic landscape of CD8+ tissue-resident memory T cells 
+4) Latent human herpesvirus 6 reactivation in chimeric antigen receptor T cells.
 
-5) Latent human herpesvirus 6 reactivation in chimeric antigen receptor T cells.
+5) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.
 
-6+) Various projects utilizing single cell multi-omic profiling. 
+6) Thesis Project includes bioinformatics analysis to characterized the newly released Illumina Methyl-Capture seq platform.
 
-
-Previous research interests: 
- 
-1) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.  
-
-2) Thesis Project includes bioinformatics analysis to characterized the newly released Illumina Methyl-Capture seq platform.  
-
-3) Deep Learning Project: Predict Genes undergoing Genetic Compensation (w/ RNA-seq data) using DNA sequence information. 
-
-
+7) Deep Learning Project: Predict Genes undergoing Genetic Compensation (w/ RNA-seq data) using DNA sequence information.
