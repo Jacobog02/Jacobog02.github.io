@@ -17,8 +17,6 @@ Additionally analyze in-house single cell datasets generated from novel technolo
 - Protein structure prediction and comparison
 - etc.
 
-Independent virology projects developed through cross-institutional training at The Rockefeller University, in the lab of Nobel Laureate Charles Rice, PhD.
-
 Previously worked in the Satpathy Lab at Stanford University leveraging single cell datasets to derive novel insights in normal health and disease.
 
 - mtscATAC-seq and mitochondrial lineage tracing
@@ -39,25 +37,11 @@ My current research interests include:
 
 2) Resolving human neuronal herpesvirus reactivation via petabase-scale association studies.
 
-3) Population-scale determinants of persistent Epstein-Barr virus DNA.
-
-4) Single cell analysis of datasets generated from novel technology development projects.
-
-5+) Various genomics and virology projects supporting in house and collaborative work.
-
 
 Previous research interests:
 
 1) Longitudinal mitochondrial lineage tracing of blood in healthy donors.
 
-2) Cell type of origin of Tubal-Ovarian Cancer in collaboration with Dr. Brooke Howitt.
+2) Latent human herpesvirus 6 reactivation in chimeric antigen receptor T cells.
 
-3) Epigenomic landscape of CD8+ tissue-resident memory T cells.
-
-4) Latent human herpesvirus 6 reactivation in chimeric antigen receptor T cells.
-
-5) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.
-
-6) Thesis Project includes bioinformatics analysis to characterized the newly released Illumina Methyl-Capture seq platform.
-
-7) Deep Learning Project: Predict Genes undergoing Genetic Compensation (w/ RNA-seq data) using DNA sequence information.
+3) Thesis Project explores epigenetic alterations in DNA methylation related to Bicuspid Aortic Valve in Turner Syndrome.
